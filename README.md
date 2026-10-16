@@ -1,16 +1,36 @@
-## Hi there 👋
+![Asad Mehmood Banner](https://raw.githubusercontent.com/Asad6190/Asad6190/main/Linkedin%20Banner.jpg)
 
-<!--
-**Asad6190/Asad6190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Asad Mehmood! 👋
 
-Here are some ideas to get you started:
+I am a **Java Backend Engineer** based in Karachi, Pakistan, with professional experience building scalable RESTful APIs and backend services for a Saudi startup. I specialize in Java, Spring Boot, MySQL, and AWS Cloud, with hands-on experience in secure authentication and payment gateway integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: **Backend projects using Spring Boot & REST APIs**
+- 🌱 I’m currently learning: **Microservices & Docker**
+- 💬 Ask me about: **Java, Spring Boot, Hibernate/JPA, MySQL, AWS, REST APIs**
+- 📫 How to reach me: **asadmehm00d96l@gmail.com**
+- 📍 Location: **Karachi, Pakistan (Open to Remote Roles)**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Java, SQL
+- **Frameworks:** Spring Boot, Spring MVC, Spring Security, Hibernate/JPA
+- **Databases:** MySQL
+- **Cloud:** AWS
+- **Tools:** Git, IntelliJ IDEA, Postman, DBeaver, VS Code
+
+---
+
+### 📈 Featured Projects
+
+**JIRAH Babysitting App (Backend)**
+- Developed scalable RESTful APIs for booking, reservation, and payment processing.
+- Integrated payment gateways and push notification services.
+- *Tech: Java, Spring Boot, MySQL, Spring Security*
+
+**Student Management System**
+- Web-based application for managing student records, courses, and registrations.
+- *Tech: Java, Spring MVC, MySQL, HTML, CSS*
+
+---
